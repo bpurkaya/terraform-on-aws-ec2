@@ -1,4 +1,4 @@
-# Datasource
+ # Datasource
 data "aws_ec2_instance_type_offerings" "my_ins_type1" {
   filter {
     name   = "instance-type"
