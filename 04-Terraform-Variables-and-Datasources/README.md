@@ -234,3 +234,5 @@ rm -rf .terraform*
 rm -rf terraform.tfstate*
 ```
   
+
+## to ssh ssh -i private-key/terraform-key2.pem ec2-user@publicIP
